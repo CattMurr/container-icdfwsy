@@ -1,3 +1,15 @@
+# v0.0.2 (Fri May 09 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@CattMurr](https://github.com/CattMurr))
+
+#### Authors: 1
+
+- [@CattMurr](https://github.com/CattMurr)
+
+---
+
 # v0.0.1 (Fri May 09 2025)
 
 :tada: This release contains work from a new contributor! :tada:
